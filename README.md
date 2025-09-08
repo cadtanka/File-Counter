@@ -9,8 +9,9 @@ It outputs the top 10 packages with the most files.
 
 ```bash
 ./package_statistics.py amd64
+```
 
-## Thought process
+## Thought process:
 
 Looking into this problem, it was easy enough to understand what was required, but I am not experienced in file readings. So, to start, I took my time with research. First, I looked deeply into the requirements to fully understand what was being asked. I then looked into different Python packages that can read/intake files, as well as different parsing strategies. 
 
